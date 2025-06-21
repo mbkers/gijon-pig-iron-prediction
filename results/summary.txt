@@ -1,0 +1,16 @@
+GPR Model Performance Summary
+==============================
+
+Test Set Performance:
+--------------------
+rmse: 37.090
+r2: -3.001
+mae: 31.601
+coverage_95: 1.000
+
+LOO-CV Performance:
+--------------------
+rmse: 43.542
+r2: 0.338
+mae: 33.334
+coverage_95: 0.958

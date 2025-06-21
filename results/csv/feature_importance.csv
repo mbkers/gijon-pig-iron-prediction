@@ -1,0 +1,16 @@
+feature,index
+NHI_SWNIR_clear_mean_mean,0
+NHI_SWNIR_p99_max,1
+TAI_p95_std,2
+NHI_SWIR_clear_mean_mean,3
+NHI_SWNIR_clear_p99_mean,4
+NHI_SWNIR_p99_std,5
+NHI_SWIR_std_mean,6
+NHI_SWIR_std_max,7
+NHI_SWNIR_mean_max,8
+NHI_SWIR_std_std,9
+TAI_clear_pixels_std,10
+NHI_SWIR_clear_pixels_std,11
+NHI_SWNIR_clear_pixels_std,12
+TAI_clear_ratio_std,13
+NHI_SWIR_clear_ratio_std,14
