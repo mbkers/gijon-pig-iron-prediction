@@ -2,6 +2,10 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+<div align="center">
+    <img src="/assets/images/summary_figure.png" alt="Summary figure">
+</div>
+
 Predicting pig iron production using Sentinel-2 satellite thermal imagery with Gaussian Process Regression (GPR).
 
 ## Overview
