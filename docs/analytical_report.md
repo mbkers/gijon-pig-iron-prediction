@@ -93,7 +93,11 @@ Top 5 features by correlation with production:
 ## Results and performance
 
 <div align="center">
-    <img src="/results/figures/loo_predictions.png" alt="LOO-CV figure">
+    <img src="/results/figures/loo_predictions.png" alt="LOO-CV figure 1">
+</div>
+
+<div align="center">
+    <img src="/results/figures/loo_actual_vs_predicted.png" alt="LOO-CV figure 2">
 </div>
 
 ### Model performance metrics
